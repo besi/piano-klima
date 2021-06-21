@@ -12,5 +12,8 @@ The LED's are low-active
     Water: Yellow = GPIO26
     Pads:  Red    = GPIO27    
     
+### Humidity and Temperature
 
-- [ ] LEDs grün=33, gelb=34, rot=35
+The DHT-11 sensor can measure temperature as well as humidity.
+
+    DHT-11 = GPIO32
