@@ -8,10 +8,9 @@
 The LED's are low-active
 
 
-    Green = GPIO25
-    Yellow = GPIO26
-    Red = GPIO27
-    
+    Power: Green  = GPIO25
+    Water: Yellow = GPIO26
+    Pads:  Red    = GPIO27    
     
 
 - [ ] LEDs grün=33, gelb=34, rot=35
