@@ -17,3 +17,10 @@ The LED's are low-active
 The DHT-11 sensor can measure temperature as well as humidity.
 
     DHT-11 = GPIO32
+
+
+### Relais
+
+    Relais Humidifier   = GPIO17
+    Relais Dehumidifier = GPIO16
+
