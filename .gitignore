@@ -1,2 +1,9 @@
 *.kicad_pcb-bak
 *.sch-bak
+/PCB/sym-lib-table
+/PCB/PianoKlima.kicad_prl
+/PCB/PianoKlima-rescue.lib
+/PCB/PianoKlima-rescue.dcm
+/PCB/PianoKlima-cache.lib
+/PCB/PianoKlima-backups
+/PCB/fp-info-cache
